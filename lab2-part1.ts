@@ -1,4 +1,4 @@
-class CheckingAccount {
+class CheckingsAccount {
 
     private initialBalance:number;
     private ownerName:string;
