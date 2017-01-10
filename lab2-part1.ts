@@ -21,7 +21,7 @@ class CheckingsAccount {
     }
 }
 
-let myMoney:BankAccount = new BankAccount(1000, "Maddy");
+let myMoney:CheckingsAccount = new CheckingsAccount(1000, "Maddy");
 myMoney.checkBalance();
 myMoney.deposit(100);
 myMoney.checkBalance();
